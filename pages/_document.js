@@ -3,7 +3,7 @@ import { Html, Head, Main, NextScript } from 'next/document'
 export default function Document() {
   const meta = {
     title: 'The Arkane Network',
-    description: 'The Arkane Network is a decentralized network of communities and individuals who are passionate about the future of the web.',
+    description: 'Хувьбилэгт.',
     image: 'https://assets.vercel.com/image/upload/q_auto/front/vercel/dps.png'
   }
 
